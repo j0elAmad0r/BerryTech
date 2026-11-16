@@ -1,0 +1,11 @@
+@"
+proyectoIA/captura_actual.jpg
+proyectoIA/captura_video.jpg
+proyectoIA/hisorial.json
+proyectoIA/historial.json
+proyectoIA/resultados/
+resultado_deteccion.jpg
+__pycache__/
+*.pyc
+.env
+"@ | Set-Content .gitignore
